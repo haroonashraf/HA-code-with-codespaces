@@ -1,0 +1,9 @@
+/workspaces/HA-code-with-codespaces/LibraryDB/bin/Debug/LibraryDB.dacpac
+/workspaces/HA-code-with-codespaces/LibraryDB/bin/Debug/LibraryDB.dll
+/workspaces/HA-code-with-codespaces/LibraryDB/bin/Debug/LibraryDB.pdb
+/workspaces/HA-code-with-codespaces/LibraryDB/obj/Debug/Model.xml
+/workspaces/HA-code-with-codespaces/LibraryDB/obj/Debug/refactor.xml
+/workspaces/HA-code-with-codespaces/LibraryDB/obj/Debug/postdeploy.sql
+/workspaces/HA-code-with-codespaces/LibraryDB/obj/Debug/predeploy.sql
+/workspaces/HA-code-with-codespaces/LibraryDB/obj/Debug/LibraryDB.dll
+/workspaces/HA-code-with-codespaces/LibraryDB/obj/Debug/LibraryDB.pdb

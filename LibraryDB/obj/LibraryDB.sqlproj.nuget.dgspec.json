@@ -1,0 +1,51 @@
+{
+  "format": 1,
+  "restore": {
+    "/workspaces/HA-code-with-codespaces/LibraryDB/LibraryDB.sqlproj": {}
+  },
+  "projects": {
+    "/workspaces/HA-code-with-codespaces/LibraryDB/LibraryDB.sqlproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/workspaces/HA-code-with-codespaces/LibraryDB/LibraryDB.sqlproj",
+        "projectName": "LibraryDB",
+        "projectPath": "/workspaces/HA-code-with-codespaces/LibraryDB/LibraryDB.sqlproj",
+        "packagesPath": "/home/codespace/.nuget/packages/",
+        "outputPath": "/workspaces/HA-code-with-codespaces/LibraryDB/obj/",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "UsingMicrosoftNETSdk": false,
+        "configFilePaths": [
+          "/home/codespace/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net45"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net45": {
+            "projectReferences": {}
+          }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net45": {
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.0, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}
